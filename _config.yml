@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "没有网络安全，就没有国家安全"
+title                    : "工业控制安全"
 title_separator          : "-"
 name                     : &name "Blessings14"
 #description              : &description "个人介绍"
