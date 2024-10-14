@@ -15,4 +15,13 @@ main:
     url: /teaching/    
     
   - title: "我的"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
     url: /markdown/
