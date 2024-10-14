@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Eric"
-  pronouns         : "he"  
+  #pronouns         : "he"  
   bio              : "Let the wind of freedom blow."
   location         : "Earth"
   employer         : "Stanford University"
