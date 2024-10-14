@@ -22,7 +22,7 @@ repository               : "Blessings14/Blessings14.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Eric"
+  name             : "California"
   #pronouns         : "he"  
   bio              : "Let the wind of freedom blow."
   location         : "Earth"
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "饕餮"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
