@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-#title                    : "我的个人主页"
-#title_separator          : "-"
+title                    : "我的个人主页"
+title_separator          : "-"
 name                     : &name "Blessings14"
 #description              : &description "个人介绍"
 url                      : https://blessings14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
