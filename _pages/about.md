@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Eric"
+title: "我与神明画押，赌你心动一刹"
 author_profile: true
 redirect_from: 
   - /about/
